@@ -1,5 +1,5 @@
 # Header 1
 
-## Header 2
+## Yaktocat
 
-Added Headers
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
